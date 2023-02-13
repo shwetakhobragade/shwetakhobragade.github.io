@@ -900,6 +900,7 @@
       font-size: 4.5rem;
     }
   }
+  
   @media screen and (max-width: 970px) {
     .container {
       padding: 7rem 6rem;
