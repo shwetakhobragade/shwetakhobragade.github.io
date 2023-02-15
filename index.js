@@ -5,6 +5,7 @@
             this.classList.add("active-btn");
             
             document.querySelector(".active").classList.remove("active");
+            
 
             document.getElementById(button.dataset.id).classList.add("active");
             
