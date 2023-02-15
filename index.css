@@ -908,6 +908,7 @@
   
     .about-container .left-about {
       padding-right: 0rem;
+      display: contents;
     }
   
     .header-content {
