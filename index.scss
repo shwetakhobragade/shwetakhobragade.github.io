@@ -706,6 +706,7 @@ section {
         right: 0;
         transform: translateX(100%);
         transition: all .4s ease-out;
+        
         z-index: -1;
     }
     &:hover {
